@@ -1,0 +1,20 @@
+SMAP
+managerMotel_jsp.java
+JSP
+*S JSP
+*F
++ 0 managerMotel.jsp
+component/manager/managerMotel.jsp
+*L
+1,141:46
+141,3:187
+143,32:190
+175,2:223
+176,2:225
+178,23:227,3
+201,3:296
+204:299,3
+205,5:302
+210,2:308
+211,39:310
+*E
